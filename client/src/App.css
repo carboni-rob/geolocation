@@ -1,0 +1,17 @@
+body {
+  background: url("http://www.ilovelondon.com/wp-content/uploads/2018/09/London-Bridge.jpg");
+  background-size: cover;
+}
+
+.transparent {
+  opacity: 0.8;
+}
+
+.center {
+  margin: 0 auto;
+  padding: 100px;
+}
+
+.App {
+  text-align: center;
+}
